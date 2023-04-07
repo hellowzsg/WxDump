@@ -48,3 +48,6 @@ GoWxDump.exe -spy
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSpenserCai%2FGoWxDump.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSpenserCai%2FGoWxDump?ref=badge_large)
+
+## 微信历史版本
+https://github.com/tom-snow/wechat-windows-versions/releases
