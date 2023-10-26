@@ -13,6 +13,7 @@
 ## 特别说明
 GoWxDump是<a href="https://github.com/AdminTest0/SharpWxDump">SharpWxDump</a>的Go语言版本。
 同时添加了一些新的功能。
+https://github.com/xaoyaoo/PyWxDump/blob/master/doc/wx%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%80%E8%BF%B0.md
 ## 使用方法
 ### 1.下载
 ```
